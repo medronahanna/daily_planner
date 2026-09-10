@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+     background-color: #fce4ec;
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+        
+}
+
+
+h1{
+    color: #0b0b0b;
+     font-family: Georgia, serif;
+      font-size: 45px;
+     margin-bottom: 20px;
+}
+form{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding: auto;
+    
+    
+}
+label{
+    display: block;
+    margin-bottom:5px ;
+}
+input{
+    display: block;
+    background-color: pink;
+    border: 1px;
+    border-radius: 8px;
+    padding: 6px;
+    margin-bottom: 20px;
+}
